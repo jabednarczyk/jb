@@ -2,5 +2,6 @@
 
 TODO:
 
-założyć konto
+xzałożyć konto
+
 rozpoznać temat secure shell
