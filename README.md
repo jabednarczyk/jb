@@ -2,6 +2,6 @@
 
 TODO:
 
-xzałożyć konto
+x założyć konto
 
 rozpoznać temat secure shell
